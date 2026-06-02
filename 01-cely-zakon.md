@@ -2227,4 +2227,3 @@ Pro správné použití zákona je nezbytná znalost **celé této sítě** a je
 
 ---
 
-
